@@ -4,7 +4,7 @@ A tool to help ease installing many packages/workloads on a computer. Installs a
 
 To use:
 
-1. Place desired packages and workloads in packages folder
+1. Place desired packages and workloads in packages folder (default is expected to be in the same directory as the powershell script ./packages/)
 2. Ensure All XAE shells and Visual Studio instances are closed
 3. Run the InstallOfflinePackages.ps1 as an Administrator
 
